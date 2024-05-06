@@ -56,6 +56,7 @@ const Home = () => {
       <input id="colors" type="text" />
       <button onClick={changecolor()}>Change</button>
       <p id="error"></p>
+      <h1>hello</h1>
     </div>
   );
 };
